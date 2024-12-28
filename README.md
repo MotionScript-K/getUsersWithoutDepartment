@@ -1,1 +1,1 @@
-Script for getting users using a filter
+Bitrix. Script for getting users using a filter
